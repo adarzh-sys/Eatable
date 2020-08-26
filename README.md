@@ -13,3 +13,6 @@ Now, install all the necessary dependencies from your `package.json` file, by ru
 Run the following command. <br>
 `npm start`
 <br>
+
+### Try out!
+A demo is hosted at [Eatable](https://eatable-851c5.web.app/).
