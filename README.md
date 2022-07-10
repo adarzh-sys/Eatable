@@ -3,7 +3,7 @@ A restaurant search app using the [Zomato-API](https://developers.zomato.com/api
 
 ## Requirements
 ### NodeJS and NPM
-First, you need to clone this repository, by running `git clone `. Kindly navigate to the directory.<br>
+First, you need to clone this repository, by running `git clone`. Navigate to the directory.<br>
 
 ### Dependencies
 Now, install all the necessary dependencies from your `package.json` file, by running the following command.<br>
