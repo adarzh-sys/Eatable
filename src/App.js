@@ -3,7 +3,7 @@ import Default from "./Default";
 import { useMediaQuery } from "react-responsive";
 import { Grid, Icon, Input, Segment } from "semantic-ui-react";
 import "semantic-ui-css/semantic.min.css";
-// import { Typography } from "@material-ui/core";
+import { Typography } from "@material-ui/core";
 import axios from "axios";
 import image from './eatable.png'
 
